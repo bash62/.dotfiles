@@ -1,0 +1,1 @@
+-- Enléve les arrow key pour s'habituer à utiliser hjkd

@@ -1,0 +1,5 @@
+[Default Applications]
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=nvim.desktop
+
+[Added Associations]
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=nvim.desktop;
