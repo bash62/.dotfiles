@@ -1,0 +1,5 @@
+super + shift + s
+	flameshot gui
+
+alt + e
+	nautilus

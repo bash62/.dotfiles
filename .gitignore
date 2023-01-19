@@ -1,2 +1,8 @@
 */*
 !nvim/**
+!i3/**
+!fish/**
+!polybar/**
+!sxhkd/**
+!rofi/**
+
